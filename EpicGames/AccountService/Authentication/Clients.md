@@ -5,6 +5,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Name                                               | Id                               | Secret                               |
 | -------------------------------------------------- | -------------------------------- | ------------------------------------ |
 | fortnitePCGameClient                               | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d     |
+| fortniteIOSGameClientEUAppstore                    | af43dc71dd91452396fcdffbd7a8e8a9 | 4YXvSEBLFRPLh1hzGZAkfOi5mqupFohZ     |
 | fortniteIOSGameClient                              | 3446cd72694c4a4485d81b77adbb2141 | 9209d4a5e25a457fb9b07489d313b41a     |
 | fortniteSwitchGameClient                           | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
 | fortniteNewSwitchGameClient                        | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7 |
@@ -15,13 +16,14 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortniteCNGameClient                               | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba     |
 | fortniteComClient                                  | cd2b7c19c9734a2ab98dc251868d7724 |                                      |
 | fortnitePS4EUGameClient                            | 79a931b375334570ac369234f5da05ec |                                      |
-| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 |                                      |
+| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 | 255c7109c8274241986616e3702678b5     |
 | fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                      |
 | fortnitePS5USGameClient                            | 03f2645147214e1ab368caa78c5fca81 |                                      |
 | fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                      |
 | fortnitePCQAGameClientTest                         | 81ffd992c8a94ccaaaa6bd74c073ce6a |                                      |
 | fortniteEsportsComClient                           | 0fa561666d6e41cb95b2a357a8b4a6f3 |                                      |
 | fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
+| item-shop-data-service-prod                        | 221c4f5d40ef4d63ace234a940c2a711 |                                      |
 | KairosPC                                           | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr     |
 | Kairos Android                                     | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp     |
 | Kairos iOS                                         | 61d2f70175e84a6bba80a5089e597e1c | FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA     |
@@ -99,6 +101,12 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Fearless Prod                                      | f2c5213519ef496aa9148dc205c68761 |                                      |
 | Kaltura Login - Prod                               | cb394386275e4a0b90b5cc6e77e55682 |                                      |
 | Diesel - Paradox Interactive - Surviving Mars      | 947305f86f2141f0976e904a1dd3c7ee |                                      |
+| pep_web                                            | cf34b582ab7343c7b928e155968f161f |                                      |
+| epicgamesNodeWebsiteClient                         | 5a6fcd3b82e04f8fa0065253835c5221 |                                      |
+| fortnite_vbulletin                                 | 52b63176173444eb8291b0dd60586e04 |                                      |
+| devEpicgamesWebsiteClient                          | 1412c33087cc452283d371665a8e5fbc |                                      |
+| fulfillmentClient                                  | b3a0d1d6558b788e27a8c044083375ef |                                      |
+| Dauntless                                          | 12c4279862ab4460a25c2e9fa535fb7e |                                      |
 
 <br/>
 
@@ -167,5 +175,9 @@ How to get [Client Info](../../Web/Id/Client.md).
 | THE KING OF FIGHTERS XV                          | xyza7891NihrtvBRRaS7fgbgzNsAXzi7 |                                             |
 | Rocket League Sideswipe                          | xyza7891U64Mb4ZybQRpqALQxo1M6wEL |                                             |
 | Gama-Gama.ru                                     | xyza78910V8IRzOkRlM9GiGylg2SWpxn |                                             |
+| Unreal Revision Control                          | xyza7891cMeUNk9wopbK9jlds3KUKclS |                                             |
+| LEGO Account                                     | xyza7891t8nxvz3IoSNmFMy3xjTSWFuZ |                                             |
+| The Elder Scrolls® Online                        | xyza78917Vz8AxXWCf6z9ACLzejhn3SJ |                                             |
+| Redpoint Games"                                  | xyza7891x7U0mokjrVQagoFKVimFTT8a |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)

@@ -1,4 +1,4 @@
-## Id Web - Create Exchange-Code
+## Id Web - Create Exchange Code
 
 URL: https://www.epicgames.com/id/api/exchange/generate \
 Method: POST \
@@ -13,3 +13,5 @@ _Example Response_:
   "code": "ba50914f6f9149ea9edcace5d30b825c"
 }
 ```
+
+> Obsolete as of 12th january 2024.

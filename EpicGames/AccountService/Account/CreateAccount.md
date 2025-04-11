@@ -18,9 +18,11 @@ Auth Required: Yes (`account:public:account CREATE`)
 }
 ```
 
-## Path Parameters
+## Query Parameters
 
-`accountId`: Your Account
+`authenticate`: Optional, boolean, Should the response include an oauth session? (Default: False) <br/>
+`tokenType`: Optional, string, The type for the oauth token (ex. `eg1`) <br/>
+`sendEmail` Optional, boolean, Should the email associated receive a verify email? (Default: False)
 
 ## Parameters
 
@@ -30,12 +32,10 @@ Auth Required: Yes (`account:public:account CREATE`)
 `displayName`: Optional, Your Display Name <br/>
 `phoneNumber`: Optional, Your Phone-Number <br/>
 `company`: Optional, Your Company <br/>
-`email`: Optional, Your Email `[*]` <br/>
-`username`: Optional, Your Username (could be used instead of an email back then) `[*]` <br/>
-`password`: Optional, Your Password (required if email/username is specified) `[*]` <br/>
-`dateOfBirth`: required, Your BirthDate `[*]` <br/>
-
-`[*]` - Requires the sensitive Permission
+`email`: Optional, Your Email <br/>
+`username`: Optional, Your Username (could be used instead of an email back then) <br/>
+`password`: Optional, Your Password (required if email/username is specified) <br/>
+`dateOfBirth`: required, Your BirthDate
 
 ---
 

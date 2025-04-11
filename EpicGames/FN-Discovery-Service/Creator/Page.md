@@ -11,7 +11,8 @@ Auth Required: Yes (`discovery:{accountId}:creator:page READ` - Your Account Id)
 ## Query Parameters
 
 `playerId`: Your Account Id <br/>
-`limit`: Count of Results (Limit is 100)
+`limit`: Count of Results (Limit is 100) <br/>
+`olderThan`: For pagination, when there are more links than the specified page size
 
 ---
 
@@ -19,13 +20,24 @@ _Example Response_
 
 ```json
 {
-  "creatorId": "4c2342479c23474daf0c38f64c7d7871",
+  "creatorId": "epic",
   "links": [
     {
-      "linkCode": "6843-3677-1390",
-      "lastActivatedDate": "2023-05-13T23:38:32.569Z",
+      "linkCode": "set_habanero_nobuild_blastberry_playlists",
+      "lastActivatedDate": "2024-07-26T19:18:11.047Z",
       "isFavorite": false,
-      "globalCCU": 218
+      "globalCCU": 55827,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "RATING_THRESHOLD",
+      "isVisible": true
+    },
+    {
+      "linkCode": "campaign",
+      "isFavorite": true,
+      "globalCCU": 16647,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "RATING_THRESHOLD",
+      "isVisible": true
     }
   ],
   "hasMore": false
