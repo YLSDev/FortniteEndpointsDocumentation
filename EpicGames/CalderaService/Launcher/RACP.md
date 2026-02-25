@@ -13,7 +13,8 @@ Auth Required: No
   "nvidia": false,
   "luna": false,
   "salmon": false,
-  "gdk_mode": false
+  "gdk_mode": false,
+  "pcb": false
 }
 ```
 
@@ -27,11 +28,14 @@ Auth Required: No
 `luna`: Used for the Amazon Luna Cloud-Gaming <br/>
 `salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**) <br/>
 `gdk_mode`: Used for the Microsoft Store Build of Fortnite
+`pcb`: Used for the [PC Bang](https://en.wikipedia.org/wiki/PC_bang) pcs
 
 Any of the following Parameters is `true`, then all other Parameters can be ignored
 
 - `nvidia`
 - `luna`
+- `pcb`
+- `gdk_mode`
 
 ---
 
